@@ -1,6 +1,6 @@
 # Linux OS Experience
 
-<p align="center"><img height="auto" width="auto" src="../wallpapers/wallpaper_linux.jpg"></p>
+<p align="center"><img height="auto" width="auto" src="wallpapers/wallpaper_linux.jpg"></p>
 
 ## Introduction
 
