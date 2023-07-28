@@ -17,7 +17,6 @@ This repository aims to provide insights into the Linux operating system, offeri
 - [Security](#security)
 - [Community and Support](#community-and-support)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## What is Linux?
 
