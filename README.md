@@ -1,5 +1,7 @@
 # Linux OS Experience
 
+<img height="auto" width="auto" src="../wallpapers/wallpaper_linux.jpg">
+
 ## Introduction
 
 This repository aims to provide insights into the Linux operating system, offering a comprehensive overview of its features, benefits, and functionalities. Whether you are a newcomer to Linux or an experienced user, this readme will guide you through the Linux experience.
