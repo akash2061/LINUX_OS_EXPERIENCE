@@ -1,6 +1,6 @@
 # Arch Linux: A Guide to the Cutting-Edge Linux Experience
 
-<p align="center"><img height="475" width="900"  src="../Arch Linux/screenshorts/SS_1.png"></p>
+<p align="center"><img height="auto" width="auto"  src="../Arch Linux/screenshorts/SS_1.png"></p>
 
 ## Introduction
 
