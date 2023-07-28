@@ -1,6 +1,6 @@
 # Arch Linux: A Guide to the Cutting-Edge Linux Experience
 
-<img src="../Arch Linux/screenshorts/SS_1.png">
+<p align="center"><img height="475" width="900"  src="../Arch Linux/screenshorts/SS_1.png"></p>
 
 ## Introduction
 
@@ -23,7 +23,7 @@ This guide aims to provide an overview of Arch Linux, a rolling-release Linux di
 
 Arch Linux is a lightweight, minimalist, and independently developed Linux distribution. It follows a rolling-release model, which means there are no traditional version releases. Instead, the system is continually updated with the latest packages and software, keeping it at the cutting edge of Linux development.
 
-<img src="../Arch Linux/screenshorts/SS_2.png">
+<p align="center"><img height="475" width="900" src="../Arch Linux/screenshorts/SS_2.png"></p>
 
 ## Key Features
 
@@ -54,7 +54,7 @@ To update the system, use:
 
 <code> sudo pacman -Syu </code>
 
-<img src="../Arch Linux/screenshorts/SS_3.png">
+<p align="center"><img height="475" width="900" src="../Arch Linux/screenshorts/SS_3.png"></p>
 
 ## Arch User Repository (AUR)
 
@@ -73,7 +73,7 @@ Arch Linux follows a rolling-release model, ensuring continuous software updates
 
 Arch Linux grants users complete control over their system. From selecting a desktop environment or window manager to configuring system services, Arch lets you build a tailored Linux experience that matches your preferences and needs.
 
-<img src="../Arch Linux/screenshorts/SS_4.png">
+<p align="center"><img height="475" width="900" src="../Arch Linux/screenshorts/SS_4.png"></p>
 
 ## Documentation
 
