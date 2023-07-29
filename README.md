@@ -94,4 +94,4 @@ Contributions to this repository are welcome! ✌️ If you have insights to add
 
 ## List
 
-- [Arch Linux](#Arch-Linux/)
+- [Arch Linux](#Arch-Linux)
